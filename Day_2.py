@@ -1,0 +1,13 @@
+# print(True and False or not True or False and not True and False)    
+# print(True and False or (not (True or False) and not True)and False)
+# print(5 > 3)
+# print(8 < 3)
+# print(5 >= 3)
+# print(5 >= 5)
+# print(5 >= 9)
+# print(8 == 8)
+# print(1 == 5)
+# print(1 != 5)
+# print(8 != 8)
+# name = 'umesh'
+# print(type(name))
